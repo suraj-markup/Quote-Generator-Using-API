@@ -6,3 +6,5 @@ In this I have used api :https://api.quotable.io/random
 I have used fetch method to obtain the data from api. And then used DOM to implement this.
 
 This page is live at : https://suraj-markup.github.io/Quote-Generator-Using-API/
+
+In continuation of my learning I will keep adding new projects.
